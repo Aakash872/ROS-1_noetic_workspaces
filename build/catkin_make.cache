@@ -1,0 +1,2 @@
+aakash_pkg
+-DCATKIN_DEVEL_PREFIX=/home/aakash/aakash_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aakash/aakash_ws/install -G Unix Makefiles
